@@ -34,7 +34,7 @@ const Testimonial = () => {
                         <img src={patientAvatar} alt=" "/>
                         <div>
                             <h4 className='text-[18px] leading-[30px] font-semibold text-headingColor'>
-                                Jack Frost
+                                Emily Wilson
                             </h4>
                             <div className='flex items-center gap-[2px]'>
                                 <HiStar className='text-yellowColor w-[18px] h-5'/>
@@ -58,7 +58,7 @@ const Testimonial = () => {
                         <img src={patientAvatar} alt=" "/>
                         <div>
                             <h4 className='text-[18px] leading-[30px] font-semibold text-headingColor'>
-                                Jack Frost
+                                Liam Thompson
                             </h4>
                             <div className='flex items-center gap-[2px]'>
                                 <HiStar className='text-yellowColor w-[18px] h-5'/>
@@ -82,7 +82,7 @@ const Testimonial = () => {
                         <img src={patientAvatar} alt=" "/>
                         <div>
                             <h4 className='text-[18px] leading-[30px] font-semibold text-headingColor'>
-                                Jack Frost
+                                Sydney Davis
                             </h4>
                             <div className='flex items-center gap-[2px]'>
                                 <HiStar className='text-yellowColor w-[18px] h-5'/>
@@ -106,7 +106,7 @@ const Testimonial = () => {
                         <img src={patientAvatar} alt=" "/>
                         <div>
                             <h4 className='text-[18px] leading-[30px] font-semibold text-headingColor'>
-                                Jack Frost
+                                Isabelle Martin
                             </h4>
                             <div className='flex items-center gap-[2px]'>
                                 <HiStar className='text-yellowColor w-[18px] h-5'/>
@@ -130,7 +130,7 @@ const Testimonial = () => {
                         <img src={patientAvatar} alt=" "/>
                         <div>
                             <h4 className='text-[18px] leading-[30px] font-semibold text-headingColor'>
-                                Jack Frost
+                                Ethan Brown
                             </h4>
                             <div className='flex items-center gap-[2px]'>
                                 <HiStar className='text-yellowColor w-[18px] h-5'/>
