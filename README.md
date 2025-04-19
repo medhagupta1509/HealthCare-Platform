@@ -1,4 +1,4 @@
-🏥 HealthCare Platform – Frontend
+#🏥 HealthCare Platform – Frontend
 A responsive and modern frontend-only web app for a healthcare platform. This project simulates a digital healthcare environment where users can explore services, book appointments, and interact with a clean, intuitive UI.
 
 🔗 Live Site: health-care-platform-vedx.vercel.app
